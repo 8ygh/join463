@@ -73,3 +73,7 @@ wait(4)
 game:GetService("TeleportService"):TeleportToPlaceInstance(131623223084840, "511512d9-0065-43c8-9abd-7f25fd4dda8d")
 wait(4)
 -- 20 servers
+game:GetService("TeleportService"):TeleportToPlaceInstance(131623223084840, "60493268-19dc-4310-8c7a-249c733997c5") 
+wait(4)
+game:GetService("TeleportService"):TeleportToPlaceInstance(131623223084840, "d0cbf44c-8d5e-48bf-8ab3-538931b7508a") 
+wait(4)
