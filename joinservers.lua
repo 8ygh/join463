@@ -66,3 +66,7 @@ game:GetService("TeleportService"):TeleportToPlaceInstance(131623223084840, "7af
 wait(4)
 game:GetService("TeleportService"):TeleportToPlaceInstance(131623223084840, "db9a38fd-61c2-42b0-bb25-92476cc7402b")
 wait(4)
+game:GetService("TeleportService"):TeleportToPlaceInstance(131623223084840, "8c2a0d89-2994-49fb-bbde-fe98ce4bc71c")
+wait(4)
+game:GetService("TeleportService"):TeleportToPlaceInstance(131623223084840, "e2ab6ae8-3985-42b4-97e1-7083b62751ce")
+wait(4)
